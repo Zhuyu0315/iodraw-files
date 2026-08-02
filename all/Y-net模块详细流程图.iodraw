@@ -422,6 +422,9 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-114" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-115">
           <mxGeometry x="120" y="30" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nSK-0pajYamKn7Zd71Jo-116" target="nSK-0pajYamKn7Zd71Jo-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-116" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="630" width="20" height="20" as="geometry" />
         </mxCell>
@@ -444,8 +447,14 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-119" value="output" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="827" width="90" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nSK-0pajYamKn7Zd71Jo-154" target="nSK-0pajYamKn7Zd71Jo-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-154" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="670" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nSK-0pajYamKn7Zd71Jo-155" target="nSK-0pajYamKn7Zd71Jo-156">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-155" value="3×3 Conv + BN + ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="720" width="220" height="30" as="geometry" />
