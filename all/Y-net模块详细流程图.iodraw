@@ -447,6 +447,9 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-154" value="1×1 Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="652.5" y="670" width="125" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-155" value="3×3 Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="720" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
