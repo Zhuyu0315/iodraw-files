@@ -392,6 +392,9 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-101" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="620" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-106" value="M" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
