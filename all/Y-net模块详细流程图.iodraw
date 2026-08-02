@@ -496,7 +496,7 @@
           <mxGeometry x="260" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-35" value="Learnable Tensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="510" width="110" height="30" as="geometry" />
+          <mxGeometry x="190" y="520" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
