@@ -504,12 +504,6 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-35" value="Learnable Tensor 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-16" target="fIfGxjoSeochnS49GhHU-34">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="295" y="440" as="sourcePoint" />
-            <mxPoint x="410" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295.0574712643679" y="590" as="targetPoint" />
@@ -529,12 +523,6 @@
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-58" value="Learnable Tensor 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="530" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fIfGxjoSeochnS49GhHU-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="455" y="440" as="sourcePoint" />
-            <mxPoint x="570" y="500" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-61">
           <mxGeometry relative="1" as="geometry">
@@ -556,12 +544,6 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-65" value="Learnable Tensor 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="530" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fIfGxjoSeochnS49GhHU-63">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="440" as="sourcePoint" />
-            <mxPoint x="730" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="615.0574712643679" y="590" as="targetPoint" />
@@ -577,12 +559,6 @@
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-70" value="Depthwize Conv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="480" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fIfGxjoSeochnS49GhHU-70">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="785" y="440" as="sourcePoint" />
-            <mxPoint x="900" y="500" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
