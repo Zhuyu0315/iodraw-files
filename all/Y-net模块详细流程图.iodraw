@@ -445,7 +445,7 @@
           <mxGeometry y="582.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-1" value="&lt;p style=&quot;line-height: 0%; font-size: 25px;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Preprocessd Sobel Edge Detector&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="420" width="510" height="100" as="geometry" />
+          <mxGeometry x="510" y="490" width="430" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
