@@ -358,6 +358,12 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-86" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-87">
           <mxGeometry x="150" y="45" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nSK-0pajYamKn7Zd71Jo-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="370" as="sourcePoint" />
+            <mxPoint x="730" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
