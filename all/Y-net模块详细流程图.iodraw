@@ -324,7 +324,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-45" value="cat" style="rounded=1;whiteSpace=wrap;html=1;" parent="nSK-0pajYamKn7Zd71Jo-58" vertex="1">
-          <mxGeometry x="112" y="300" width="125" height="30" as="geometry" />
+          <mxGeometry x="140" y="300" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-46" value="1×1 Conv + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;" parent="nSK-0pajYamKn7Zd71Jo-58" vertex="1">
           <mxGeometry x="112.5" y="350" width="125" height="30" as="geometry" />
