@@ -379,7 +379,7 @@
           <mxGeometry y="582.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-22" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-20" y="400" width="385" height="350" as="geometry" />
+          <mxGeometry x="285" y="280" width="385" height="350" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="fxtAv1XzribLiwJE0B4T-22" source="fxtAv1XzribLiwJE0B4T-2" target="fxtAv1XzribLiwJE0B4T-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -445,7 +445,7 @@
           <mxGeometry x="140" y="315" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="234" width="270" height="360" as="geometry" />
+          <mxGeometry x="340" y="234" width="310" height="416" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
