@@ -674,10 +674,10 @@
           <mxGeometry x="322.5" y="670" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-113" value="cat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="580" width="70" height="30" as="geometry" />
+          <mxGeometry x="370" y="780" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-114" value="1×1 CBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="630" width="115" height="30" as="geometry" />
+        <mxCell id="fIfGxjoSeochnS49GhHU-114" value="3×3 CBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="830" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
