@@ -383,12 +383,6 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-95" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
           <mxGeometry width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-96" value="diff" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
-          <mxGeometry x="170" y="30" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-97" value="sum" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
-          <mxGeometry x="100" y="30" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-98" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
           <mxGeometry x="10" y="22.5" width="30" height="30" as="geometry" />
         </mxCell>
@@ -400,12 +394,6 @@
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-101" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
           <mxGeometry x="40" y="52.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-102" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
-          <mxGeometry x="80" y="45" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-103" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-94">
-          <mxGeometry x="150" y="45" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
