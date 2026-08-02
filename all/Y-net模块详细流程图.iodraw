@@ -364,7 +364,7 @@
             <mxPoint x="715" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-89" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nSK-0pajYamKn7Zd71Jo-88">
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-89" value="3×FC + Conv" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nSK-0pajYamKn7Zd71Jo-88">
           <mxGeometry x="-0.0463" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
