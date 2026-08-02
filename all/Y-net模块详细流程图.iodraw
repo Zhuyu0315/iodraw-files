@@ -670,8 +670,8 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-111" value="1×1 CBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="620" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-112" value="3×3 CBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="670" width="115" height="30" as="geometry" />
+        <mxCell id="fIfGxjoSeochnS49GhHU-112" value="3×3 Conv + Sigmoid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="670" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
