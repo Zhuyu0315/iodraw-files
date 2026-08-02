@@ -61,10 +61,10 @@
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-20" value="cat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fxtAv1XzribLiwJE0B4T-16">
           <mxGeometry x="0.8028" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fxtAv1XzribLiwJE0B4T-18" value="input" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fxtAv1XzribLiwJE0B4T-18" value="output" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="370" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
