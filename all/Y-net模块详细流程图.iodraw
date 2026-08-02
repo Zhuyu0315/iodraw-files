@@ -7,8 +7,8 @@
         <mxCell id="fxtAv1XzribLiwJE0B4T-2" value="（R+G+B）/ 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="60" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fxtAv1XzribLiwJE0B4T-3" value="（R+G+B）/ 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="160" height="40" as="geometry" />
+        <mxCell id="fxtAv1XzribLiwJE0B4T-3" value="&lt;span style=&quot;color: rgb(139, 139, 139); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: small; text-align: start; background-color: rgb(229, 229, 229);&quot;&gt;Gaussian prefilter&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
