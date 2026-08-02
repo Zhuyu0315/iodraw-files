@@ -640,8 +640,8 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-101" value="input" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="90" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-102" value="3×3 Conv + BN + ReLu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="384" width="220" height="30" as="geometry" />
+        <mxCell id="fIfGxjoSeochnS49GhHU-102" value="upsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="384" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
