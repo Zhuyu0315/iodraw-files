@@ -422,6 +422,9 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-114" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="nSK-0pajYamKn7Zd71Jo-115">
           <mxGeometry x="120" y="30" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-116" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
