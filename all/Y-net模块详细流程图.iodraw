@@ -384,7 +384,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-22" value="" style="group" parent="fIfGxjoSeochnS49GhHU-3" vertex="1" connectable="0">
-          <mxGeometry x="-57.5" y="40" width="385" height="350" as="geometry" />
+          <mxGeometry x="-20" y="50" width="385" height="350" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="fxtAv1XzribLiwJE0B4T-22" source="fxtAv1XzribLiwJE0B4T-2" target="fxtAv1XzribLiwJE0B4T-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
