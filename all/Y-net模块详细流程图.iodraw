@@ -23,20 +23,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-6" value="Conv2d (sobel kernel.x)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="170" height="30" as="geometry" />
+          <mxGeometry x="25" y="220" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxtAv1XzribLiwJE0B4T-8" target="fxtAv1XzribLiwJE0B4T-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-8" value="Conv2d (sobel kernel.y)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="270" width="170" height="30" as="geometry" />
+          <mxGeometry x="225" y="220" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fxtAv1XzribLiwJE0B4T-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fxtAv1XzribLiwJE0B4T-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="300" as="sourcePoint" />
+            <mxPoint x="210" y="30" as="sourcePoint" />
             <mxPoint x="420" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
