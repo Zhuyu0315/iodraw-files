@@ -483,8 +483,8 @@
             <mxPoint x="120" y="52.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-26" value="k×1 Conv2d" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="290" width="125" height="30" as="geometry" />
+        <mxCell id="fIfGxjoSeochnS49GhHU-26" value="max pool" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="280" width="87.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
