@@ -679,6 +679,9 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-112" target="fIfGxjoSeochnS49GhHU-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fIfGxjoSeochnS49GhHU-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-112" target="fIfGxjoSeochnS49GhHU-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-112" value="3×3 Conv + Sigmoid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="690" width="165" height="30" as="geometry" />
         </mxCell>
@@ -689,10 +692,10 @@
           <mxGeometry x="347.5" y="830" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-115" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="760" width="20" height="20" as="geometry" />
+          <mxGeometry x="339" y="760" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-116" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="740" width="20" height="20" as="geometry" />
+          <mxGeometry x="422" y="760" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-117" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-105" target="fIfGxjoSeochnS49GhHU-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
