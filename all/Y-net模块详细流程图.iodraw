@@ -766,6 +766,9 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-135" value="Interporate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="310" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fIfGxjoSeochnS49GhHU-136" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
