@@ -801,8 +801,8 @@
         <mxCell id="fIfGxjoSeochnS49GhHU-228" value="(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="981" width="40" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="fIfGxjoSeochnS49GhHU-229" value="(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="1440" width="40" height="29" as="geometry" />
+        <mxCell id="fIfGxjoSeochnS49GhHU-229" value="(b)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1444" width="40" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
