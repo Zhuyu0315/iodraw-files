@@ -833,6 +833,12 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-56" value="output" style="ellipse;whiteSpace=wrap;html=1;" parent="fIfGxjoSeochnS49GhHU-215" vertex="1">
           <mxGeometry x="130" y="490" width="90" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="fIfGxjoSeochnS49GhHU-220" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.298;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fIfGxjoSeochnS49GhHU-219">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="1220" as="sourcePoint" />
+            <mxPoint x="-340" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
