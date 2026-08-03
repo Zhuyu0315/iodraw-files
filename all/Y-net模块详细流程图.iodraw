@@ -752,7 +752,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-129" value="input 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="250" width="90" height="35" as="geometry" />
+          <mxGeometry x="610" y="355" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-130" value="input 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="355" width="90" height="35" as="geometry" />
@@ -773,13 +773,13 @@
           <mxGeometry x="347.5" y="360" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-135" value="Interporate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="310" width="115" height="30" as="geometry" />
+          <mxGeometry x="597.5" y="420" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-136" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="430" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-166" value="cat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="490" width="70" height="30" as="geometry" />
+          <mxGeometry x="515" y="480" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fIfGxjoSeochnS49GhHU-167" value="3×3 CBR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="550" width="115" height="30" as="geometry" />
