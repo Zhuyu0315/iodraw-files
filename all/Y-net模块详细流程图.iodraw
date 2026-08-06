@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="PhbnkAMFfVyA-04yDnNI">
-    <mxGraphModel dx="3389" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="-328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,9 +687,9 @@
           <mxGeometry x="220" y="1683" width="45" height="35" as="geometry" />
         </mxCell>
         <mxCell id="CkC_CvHjN4c3u6IEb-az-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-205" y="940" width="360" height="572" as="geometry" />
+          <mxGeometry x="740" y="1060" width="360" height="572" as="geometry" />
         </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-46" value="1×1 Conv + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="CkC_CvHjN4c3u6IEb-az-6" vertex="1">
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-46" value="1×1 Conv + BN + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="CkC_CvHjN4c3u6IEb-az-6" vertex="1">
           <mxGeometry x="112.5" y="397" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-49" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;container=0;" parent="CkC_CvHjN4c3u6IEb-az-6" vertex="1">
@@ -741,8 +741,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CkC_CvHjN4c3u6IEb-az-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CkC_CvHjN4c3u6IEb-az-6" source="CkC_CvHjN4c3u6IEb-az-2" target="nSK-0pajYamKn7Zd71Jo-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CkC_CvHjN4c3u6IEb-az-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CkC_CvHjN4c3u6IEb-az-6" target="nSK-0pajYamKn7Zd71Jo-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="377" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="CkC_CvHjN4c3u6IEb-az-6" source="nSK-0pajYamKn7Zd71Jo-25" target="nSK-0pajYamKn7Zd71Jo-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -822,9 +824,6 @@
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-45" value="cat" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="CkC_CvHjN4c3u6IEb-az-6" vertex="1">
           <mxGeometry x="150" y="300" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CkC_CvHjN4c3u6IEb-az-2" value="1×1 Conv + BN + ReLU" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="CkC_CvHjN4c3u6IEb-az-6">
-          <mxGeometry x="90" y="347" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
