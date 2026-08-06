@@ -508,7 +508,7 @@
         <mxCell id="nSK-0pajYamKn7Zd71Jo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fIfGxjoSeochnS49GhHU-215" source="nSK-0pajYamKn7Zd71Jo-30" target="nSK-0pajYamKn7Zd71Jo-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nSK-0pajYamKn7Zd71Jo-30" value="max pool" style="rounded=1;whiteSpace=wrap;html=1;" parent="fIfGxjoSeochnS49GhHU-215" vertex="1">
+        <mxCell id="nSK-0pajYamKn7Zd71Jo-30" value="BN + ReLU" style="rounded=1;whiteSpace=wrap;html=1;" parent="fIfGxjoSeochnS49GhHU-215" vertex="1">
           <mxGeometry x="20" y="130" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nSK-0pajYamKn7Zd71Jo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="fIfGxjoSeochnS49GhHU-215" source="nSK-0pajYamKn7Zd71Jo-32" target="nSK-0pajYamKn7Zd71Jo-39" edge="1">
