@@ -351,6 +351,9 @@
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-40" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;SARM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="714" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IIaQa5MqtIiBwuo9Krl2-41" value="GHPD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="606" width="58" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
