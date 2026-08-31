@@ -224,10 +224,10 @@
           <mxGeometry x="260" y="642" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldZF-BC6GphwwstE1Bet-41" value="64&lt;span style=&quot;background-color: initial;&quot;&gt;×112&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=6;" vertex="1" parent="1">
-          <mxGeometry x="262" y="590" width="140" height="26" as="geometry" />
+          <mxGeometry x="262" y="590" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ldZF-BC6GphwwstE1Bet-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;128×56&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=6;" vertex="1" parent="1">
-          <mxGeometry x="264" y="524" width="120" height="26" as="geometry" />
+          <mxGeometry x="264" y="524" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ldZF-BC6GphwwstE1Bet-43" value="&lt;span style=&quot;background-color: initial;&quot;&gt;256×28&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=6;" vertex="1" parent="1">
           <mxGeometry x="258" y="482" width="100" height="26" as="geometry" />
