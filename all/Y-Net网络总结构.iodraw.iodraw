@@ -352,13 +352,13 @@
           <mxGeometry x="332" y="830" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-23" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SARM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IIaQa5MqtIiBwuo9Krl2-26">
-          <mxGeometry x="-48.5" y="-3" width="80" height="48" as="geometry" />
+          <mxGeometry width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-29" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="268" y="675" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-30" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SARM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IIaQa5MqtIiBwuo9Krl2-29">
-          <mxGeometry y="52" width="80" height="48" as="geometry" />
+          <mxGeometry width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-34" value="GHPD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="516" width="61.5" height="24" as="geometry" />
