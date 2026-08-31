@@ -220,8 +220,8 @@
             <mxPoint x="674.76" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldZF-BC6GphwwstE1Bet-40" value="32×224&lt;sup&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=5;" vertex="1" parent="1">
-          <mxGeometry x="202" y="218" width="102" height="26" as="geometry" />
+        <mxCell id="ldZF-BC6GphwwstE1Bet-40" value="32×224&lt;sup&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="202" y="218" width="100" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
