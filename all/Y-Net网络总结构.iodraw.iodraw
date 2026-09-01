@@ -1219,7 +1219,7 @@
           <mxGeometry x="91" y="198" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gQBGz9_MReHhyMBCVdMv-216" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="308" y="1188" width="282" height="484" as="geometry" />
+          <mxGeometry x="308" y="1188" width="227" height="481" as="geometry" />
         </mxCell>
         <mxCell id="gQBGz9_MReHhyMBCVdMv-213" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gQBGz9_MReHhyMBCVdMv-121">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
