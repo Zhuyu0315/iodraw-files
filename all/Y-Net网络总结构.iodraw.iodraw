@@ -1278,7 +1278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gQBGz9_MReHhyMBCVdMv-120" value="3×3 CBR" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="364.5" y="1612" width="115" height="30" as="geometry" />
+          <mxGeometry x="382.5" y="1612" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gQBGz9_MReHhyMBCVdMv-121" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="371" y="1550" width="20" height="20" as="geometry" />
