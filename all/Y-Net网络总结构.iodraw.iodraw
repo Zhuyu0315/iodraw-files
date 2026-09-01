@@ -1380,9 +1380,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gQBGz9_MReHhyMBCVdMv-232" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=35;" vertex="1" parent="1">
-          <mxGeometry x="25" y="379" width="214" height="14" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
