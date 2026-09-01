@@ -501,6 +501,12 @@
         <mxCell id="gQBGz9_MReHhyMBCVdMv-120" value="3×3 CBR" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="911" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gQBGz9_MReHhyMBCVdMv-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.45;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="492" y="120" as="sourcePoint" />
+            <mxPoint x="490" y="102.15000000000009" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
