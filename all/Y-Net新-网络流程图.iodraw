@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UMioc_V0d6cX8tMWVGIC">
-    <mxGraphModel dx="1150" dy="770" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="669" pageHeight="1050" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3018" dy="2023" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="669" pageHeight="1050" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,18 +531,6 @@
         </mxCell>
         <mxCell id="gQBGz9_MReHhyMBCVdMv-120" value="3×3 CBR" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="95" y="889" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KAyxjXhMUVZj26TZpGdJ-129" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1388" y="886.48" as="sourcePoint" />
-            <mxPoint x="1757" y="886" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KAyxjXhMUVZj26TZpGdJ-130" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1757" y="976" as="sourcePoint" />
-            <mxPoint x="2247" y="976" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="KAyxjXhMUVZj26TZpGdJ-171" value="(a)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="1387" y="424" width="45" height="35" as="geometry" />
