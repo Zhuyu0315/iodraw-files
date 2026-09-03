@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldZF-BC6GphwwstE1Bet-58" value="64&lt;span style=&quot;background-color: initial;&quot;&gt;×112&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=14;container=0;" parent="1" vertex="1">
+        <mxCell id="ldZF-BC6GphwwstE1Bet-58" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;64&lt;span style=&quot;background-color: initial;&quot;&gt;×112&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=14;container=0;" parent="1" vertex="1">
           <mxGeometry x="21" y="38" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=52;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;" parent="1" source="ldZF-BC6GphwwstE1Bet-59" target="IIaQa5MqtIiBwuo9Krl2-93" edge="1">
