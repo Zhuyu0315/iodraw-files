@@ -68,7 +68,7 @@
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120.00000000000001;exitDy=33;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;curved=0;" parent="1" source="ldZF-BC6GphwwstE1Bet-42" target="IIaQa5MqtIiBwuo9Krl2-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ldZF-BC6GphwwstE1Bet-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;128×56&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=16;container=0;" parent="1" vertex="1">
+        <mxCell id="ldZF-BC6GphwwstE1Bet-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;128×56&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=16;container=0;fillColor=#92e57a;" parent="1" vertex="1">
           <mxGeometry x="299" y="745" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ldZF-BC6GphwwstE1Bet-43" target="ldZF-BC6GphwwstE1Bet-44" edge="1">
