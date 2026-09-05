@@ -1060,6 +1060,9 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-46" value="Dw Conv" style="rounded=1;whiteSpace=wrap;html=1;container=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="3071" y="415" width="59" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qm6q62LqsyIrhKxkbcd2-47" value="Learnable Tensor 1" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="3468" y="583" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
