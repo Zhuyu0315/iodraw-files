@@ -1107,7 +1107,7 @@
           <mxGeometry x="3042" y="522" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-68" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="2970" y="392" width="20" height="192" as="geometry" />
+          <mxGeometry x="2970" y="404" width="20" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
