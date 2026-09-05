@@ -110,7 +110,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldZF-BC6GphwwstE1Bet-44" value="&lt;span style=&quot;background-color: initial;&quot;&gt;512×14&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=12;container=0;" parent="1" vertex="1">
+        <mxCell id="ldZF-BC6GphwwstE1Bet-44" value="&lt;span style=&quot;background-color: initial;&quot;&gt;512×14&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=12;container=0;fillColor=#ceef45;" parent="1" vertex="1">
           <mxGeometry x="319" y="524" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.005;exitY=0.53;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=0;jumpStyle=none;jumpSize=3;strokeWidth=1;startArrow=none;startFill=0;endSize=6;endArrow=classicThin;endFill=1;" parent="1" source="ldZF-BC6GphwwstE1Bet-45" target="IIaQa5MqtIiBwuo9Krl2-68" edge="1">
