@@ -1021,6 +1021,9 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-10" value="SARM" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2469" y="1274.5" width="58" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="qm6q62LqsyIrhKxkbcd2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IIaQa5MqtIiBwuo9Krl2-94" target="IIaQa5MqtIiBwuo9Krl2-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
