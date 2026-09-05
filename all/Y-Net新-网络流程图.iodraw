@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldZF-BC6GphwwstE1Bet-45" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1024×7&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;container=0;" parent="1" vertex="1">
+        <mxCell id="ldZF-BC6GphwwstE1Bet-45" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1024×7&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;container=0;fillColor=#e8d638;" parent="1" vertex="1">
           <mxGeometry x="329" y="398" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=37;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="ldZF-BC6GphwwstE1Bet-56" target="IIaQa5MqtIiBwuo9Krl2-69" edge="1">
