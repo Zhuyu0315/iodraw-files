@@ -1012,6 +1012,12 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-10" value="SARM" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2469" y="1274.5" width="58" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="qm6q62LqsyIrhKxkbcd2-21" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3087" y="423" as="sourcePoint" />
+            <mxPoint x="3137" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
