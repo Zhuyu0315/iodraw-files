@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UMioc_V0d6cX8tMWVGIC">
-    <mxGraphModel dx="1341" dy="899" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="669" pageHeight="1050" background="none" math="0" shadow="1">
+    <mxGraphModel dx="503" dy="337" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="669" pageHeight="1050" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1057,7 +1057,7 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qm6q62LqsyIrhKxkbcd2-22" target="qm6q62LqsyIrhKxkbcd2-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qm6q62LqsyIrhKxkbcd2-46" value="Depthwize Conv" style="rounded=1;whiteSpace=wrap;html=1;container=0;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="qm6q62LqsyIrhKxkbcd2-46" value="Dw Conv" style="rounded=1;whiteSpace=wrap;html=1;container=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="3071" y="405" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
