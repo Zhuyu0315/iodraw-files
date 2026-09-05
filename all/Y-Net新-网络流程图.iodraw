@@ -1012,7 +1012,7 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-10" value="SARM" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="2469" y="1274.5" width="58" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="qm6q62LqsyIrhKxkbcd2-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="qm6q62LqsyIrhKxkbcd2-20" value="" style="group;fillColor=none;glass=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="741" y="389" width="227" height="58.00000000000023" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.098;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;shadow=0;" edge="1" parent="qm6q62LqsyIrhKxkbcd2-20">
