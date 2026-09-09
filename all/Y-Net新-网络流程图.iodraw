@@ -1007,8 +1007,8 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-220" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="78YqLKwixUrg6ODOTMvR-21" vertex="1">
           <mxGeometry x="540" y="152.5" width="30.000000000000007" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="1">
-          <mxGeometry x="1517.38" y="508.27" width="135" height="205" as="geometry" />
+        <mxCell id="AEcULFxjqD-0_eouRZMa-5" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-60;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1521.48" y="515.36" width="118.62" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
