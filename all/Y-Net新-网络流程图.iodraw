@@ -1228,7 +1228,7 @@
           <mxGeometry x="978" y="703" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-187" value="Dynamic Aggregation Downsample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="963" y="455" width="340" height="42" as="geometry" />
+          <mxGeometry x="904.5" y="453" width="457" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
