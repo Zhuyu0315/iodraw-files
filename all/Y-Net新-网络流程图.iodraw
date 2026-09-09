@@ -601,7 +601,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-180" value="Decoding Tail Enhancement" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-181">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-180" value="Decoding Tail Enhancement Module" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-181">
           <mxGeometry x="152" y="3" width="340" height="42" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-183" value="" style="group" vertex="1" connectable="0" parent="1">
