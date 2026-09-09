@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UMioc_V0d6cX8tMWVGIC">
-    <mxGraphModel dx="575" dy="385" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="210" pageHeight="297" background="none" math="0" shadow="1">
+    <mxGraphModel dx="483" dy="324" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="210" pageHeight="297" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1273,16 +1273,16 @@
           <mxGeometry x="124" y="1225" width="226" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-419" value=": Element-wise Addition" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="124" y="1260" width="226" height="20" as="geometry" />
+          <mxGeometry x="124" y="1261" width="226" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-420" value=":&amp;nbsp;Feature Concatenation along Channel Axis" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="124" y="1296" width="245" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-421" value=":&amp;nbsp;Element-wise Difference" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="124" y="1339" width="226" height="20" as="geometry" />
+          <mxGeometry x="124" y="1332" width="226" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-422" value=":&amp;nbsp;Tensor Difference relative to&amp;nbsp;Average" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="124" y="1373" width="226" height="20" as="geometry" />
+          <mxGeometry x="124" y="1367" width="226" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
