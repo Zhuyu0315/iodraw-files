@@ -1009,10 +1009,10 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SARM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="349" y="930" width="58" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-7" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;startSize=4;" edge="1" parent="1">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-7" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;startSize=4;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="794" y="1162" as="sourcePoint" />
-            <mxPoint x="826" y="1162" as="targetPoint" />
+            <mxPoint x="796" y="1163" as="sourcePoint" />
+            <mxPoint x="828" y="1163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
