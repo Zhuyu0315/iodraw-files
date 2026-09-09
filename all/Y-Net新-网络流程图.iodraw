@@ -932,7 +932,7 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AEcULFxjqD-0_eouRZMa-199" source="AEcULFxjqD-0_eouRZMa-92" target="AEcULFxjqD-0_eouRZMa-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-92" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;Entropy Calculation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-199">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-92" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;Entropy Calculation&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFE6ED;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-199">
           <mxGeometry x="228.5" y="55" width="111" height="21" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AEcULFxjqD-0_eouRZMa-199" source="AEcULFxjqD-0_eouRZMa-93" target="AEcULFxjqD-0_eouRZMa-94">
