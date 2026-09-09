@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UMioc_V0d6cX8tMWVGIC">
-    <mxGraphModel dx="995" dy="385" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="210" pageHeight="297" background="none" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="109" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="210" pageHeight="297" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldZF-BC6GphwwstE1Bet-56" value="&lt;span style=&quot;background-color: initial;&quot;&gt;256×28&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=14;container=0;fillColor=#aeeb62;strokeColor=#999999;fontStyle=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="ldZF-BC6GphwwstE1Bet-56" value="&lt;span style=&quot;background-color: initial;&quot;&gt;256×28&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=23;container=0;fillColor=#aeeb62;strokeColor=#999999;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="123" y="385" width="100" height="82" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=33;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=1;fontStyle=1;shadow=1;" parent="1" source="ldZF-BC6GphwwstE1Bet-57" target="IIaQa5MqtIiBwuo9Krl2-93" edge="1">
@@ -1291,7 +1291,7 @@
           <mxGeometry x="24" y="1328" width="1263.48" height="847" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-442" value="&lt;span style=&quot;background-color: initial;&quot;&gt;256×28&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=23;container=0;fillColor=#aeeb62;strokeColor=#999999;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="685" width="100" height="82" as="geometry" />
+          <mxGeometry x="43" y="385" width="100" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
