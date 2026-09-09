@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UMioc_V0d6cX8tMWVGIC">
-    <mxGraphModel dx="1724" dy="1156" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="2970" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1006" dy="674" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2100" pageHeight="2970" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -642,7 +642,7 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-187" value="Dynamic Aggregation Downsample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-188">
           <mxGeometry x="96.5" y="2" width="457" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-191" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-191" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="635" y="486" width="650" height="245" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;container=0;fillColor=#F7F4FC;" parent="AEcULFxjqD-0_eouRZMa-191" vertex="1">
