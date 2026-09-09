@@ -1301,7 +1301,7 @@
           <mxGeometry x="1286.5" y="556" width="183" height="54" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-469" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#000000&quot;&gt;segmentation&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1502" y="-4" width="84" height="28" as="geometry" />
+          <mxGeometry x="1510.5" y="-2" width="67" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
