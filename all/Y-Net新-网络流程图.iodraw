@@ -1269,8 +1269,11 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-417" value="D" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="91" y="1332" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-418" value=":Element-wise Multiplication" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="1225" width="60" height="20" as="geometry" />
+        <mxCell id="AEcULFxjqD-0_eouRZMa-418" value=": Element-wise Multiplication" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1225" width="226" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-419" value=": Element-wise Multiplication" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1226" width="226" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
