@@ -617,7 +617,7 @@
           <mxGeometry x="1125.5" y="161.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-68" value="" style="labelPosition=right;align=left;strokeWidth=1;shape=mxgraph.mockup.markup.curlyBrace;html=1;shadow=0;dashed=0;strokeColor=#000000;direction=north;container=0;" parent="1" vertex="1">
-          <mxGeometry x="1058.5" y="48.5" width="20" height="181" as="geometry" />
+          <mxGeometry x="1058.5" y="71" width="21.5" height="158.5" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qm6q62LqsyIrhKxkbcd2-69" target="qm6q62LqsyIrhKxkbcd2-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
