@@ -1242,6 +1242,9 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-201" value="MainFeature" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="1947" y="405" width="90" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-202" value="MainFeature" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1948" y="406" width="90" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
