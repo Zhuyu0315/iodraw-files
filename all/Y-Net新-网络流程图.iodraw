@@ -517,7 +517,7 @@
           <mxGeometry x="356.5" y="466" width="45" height="16" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;container=0;fillColor=#ffe7ff;" parent="1" vertex="1">
-          <mxGeometry x="750" y="14" width="650" height="223" as="geometry" />
+          <mxGeometry x="749" y="-8" width="650" height="247" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-21" value="" style="endArrow=classic;html=1;rounded=0;startArrow=oval;startFill=1;startSize=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1232,6 +1232,9 @@
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-187" value="Dynamic Aggregation Downsample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-188">
           <mxGeometry x="96.5" y="2" width="457" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-190" value="Dynamic Aggregation Downsample" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="838" y="-5" width="457" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
