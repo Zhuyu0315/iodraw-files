@@ -482,7 +482,7 @@
         <mxCell id="KAyxjXhMUVZj26TZpGdJ-249" value="3×3 CBSiLU" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8ff82;" parent="1" vertex="1">
           <mxGeometry x="619" y="390" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KAyxjXhMUVZj26TZpGdJ-250" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="KAyxjXhMUVZj26TZpGdJ-250" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitDx=0;exitDy=0;entryDx=0;entryDy=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="626.5000000000002" y="542" as="sourcePoint" />
             <mxPoint x="626.5000000000002" y="492.94987437106613" as="targetPoint" />
