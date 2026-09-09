@@ -1216,7 +1216,7 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-180" value="Decoding Tail Enhancement" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-181">
           <mxGeometry x="152" y="3" width="340" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-182" value="Decoding Tail Enhancement" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-182" value="Strip Attention Refinement Module" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="899" y="656" width="340" height="42" as="geometry" />
         </mxCell>
       </root>
