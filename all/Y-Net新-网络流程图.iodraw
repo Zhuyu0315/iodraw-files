@@ -360,7 +360,7 @@
           <mxGeometry x="1637" y="378.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="78YqLKwixUrg6ODOTMvR-19" value="DTE" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#DAE8FC;" parent="1" vertex="1">
-          <mxGeometry x="523" y="54" width="63" height="20" as="geometry" />
+          <mxGeometry x="523" y="54" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SARM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="356" y="900" width="45" height="16" as="geometry" />
