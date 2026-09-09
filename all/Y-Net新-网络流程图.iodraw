@@ -1260,7 +1260,7 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-226" value="" style="shape=path;width=100;height=100;path=m50,10 Q20,50 10,90 L90,90 Q80,50 50,10 Z;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-233" y="528" width="139" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-227" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-227" value="" style="&lt;shape name=&quot;curvedTri&quot; h=&quot;100&quot; w=&quot;100&quot; aspect=&quot;variable&quot; strokewidth=&quot;inherit&quot;&gt;&#xa;  &lt;background&gt;&#xa;    &lt;path&gt;&#xa;      &lt;move x=&quot;50&quot; y=&quot;10&quot;/&gt;&#xa;      &lt;quad x1=&quot;15&quot; y1=&quot;50&quot; x2=&quot;10&quot; y2=&quot;90&quot;/&gt;&#xa;      &lt;line x=&quot;90&quot; y=&quot;90&quot;/&gt;&#xa;      &lt;quad x1=&quot;85&quot; y1=&quot;50&quot; x2=&quot;50&quot; y2=&quot;10&quot;/&gt;&#xa;      &lt;close/&gt;&#xa;    &lt;/path&gt;&#xa;  &lt;/background&gt;&#xa;  &lt;foreground&gt;&#xa;    &lt;fillstroke/&gt;&#xa;  &lt;/foreground&gt;&#xa;&lt;/shape&gt;" vertex="1" parent="1">
           <mxGeometry x="-232" y="756" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
