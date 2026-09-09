@@ -1051,8 +1051,8 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-94" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;3×3 Fixed Box Smooth&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="1">
           <mxGeometry x="1006" y="1160" width="125" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-95" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;1×1 Conv +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;softmax&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="1197" width="111" height="21" as="geometry" />
+        <mxCell id="AEcULFxjqD-0_eouRZMa-96" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;3×3 Fixed Box Smooth&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="1">
+          <mxGeometry x="1007" y="1196" width="125" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
