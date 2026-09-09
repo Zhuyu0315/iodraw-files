@@ -1227,6 +1227,9 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-186" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
           <mxGeometry x="978" y="703" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-187" value="Decoding Tail Enhancement" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="963" y="460" width="340" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
