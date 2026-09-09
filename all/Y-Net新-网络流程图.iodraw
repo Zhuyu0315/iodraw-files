@@ -1133,7 +1133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-225" value="1×1 Conv" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00c4ff;" parent="1" vertex="1">
-          <mxGeometry x="1351" y="533.5" width="80" height="25" as="geometry" />
+          <mxGeometry x="1351" y="542" width="63" height="16.5" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-227" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;container=0;" parent="1" vertex="1">
           <mxGeometry x="1171" y="529.5" width="20" height="20" as="geometry" />
