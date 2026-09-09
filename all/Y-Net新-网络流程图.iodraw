@@ -1236,6 +1236,9 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-180" value="Decoding Tail Enhancement Module" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;container=0;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-199">
           <mxGeometry x="109" y="5" width="434" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-200" value="DeepFeature" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1911" y="535" width="90" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
