@@ -1007,6 +1007,9 @@
         <mxCell id="qm6q62LqsyIrhKxkbcd2-220" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="78YqLKwixUrg6ODOTMvR-21" vertex="1">
           <mxGeometry x="540" y="152.5" width="30.000000000000007" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-5" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="513" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
