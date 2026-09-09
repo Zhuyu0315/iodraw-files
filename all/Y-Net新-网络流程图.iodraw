@@ -1039,6 +1039,9 @@
             <mxPoint x="852" y="1189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-91" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;3×FC&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;1×1 Conv +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;softmax&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="1116" width="150" height="21" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
