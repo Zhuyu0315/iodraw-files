@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="UMioc_V0d6cX8tMWVGIC">
-    <mxGraphModel dx="483" dy="324" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="210" pageHeight="297" background="none" math="0" shadow="1">
+    <mxGraphModel dx="281" dy="188" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="210" pageHeight="297" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1294,7 +1294,7 @@
           <mxGeometry x="91" y="1362" width="259" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-314" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Diff&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFD1B3;fontStyle=1" vertex="1" parent="AEcULFxjqD-0_eouRZMa-429">
-          <mxGeometry width="25" height="24" as="geometry" />
+          <mxGeometry width="25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-422" value=":&amp;nbsp;Tensor Difference relative to&amp;nbsp;Average" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-429">
           <mxGeometry x="33" y="5" width="226" height="20" as="geometry" />
