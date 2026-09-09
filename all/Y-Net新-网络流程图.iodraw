@@ -1223,6 +1223,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-176" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1309" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
