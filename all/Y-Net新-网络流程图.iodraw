@@ -1165,10 +1165,10 @@
           <mxGeometry x="1116" y="1280" width="130" height="21.5" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-161" value="softmax weighted summation" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
-          <mxGeometry x="1269" y="1144" width="107" height="35.5" as="geometry" />
+          <mxGeometry x="1279" y="1135" width="67" height="52" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-162" value="SE" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
-          <mxGeometry x="1316" y="1207" width="26" height="20" as="geometry" />
+          <mxGeometry x="1299.5" y="1206" width="26" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-163" value="3×3 Conv + Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
           <mxGeometry x="1264" y="1269" width="130" height="21.5" as="geometry" />
