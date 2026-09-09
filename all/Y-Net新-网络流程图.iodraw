@@ -1073,7 +1073,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-119" value="3×3&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;CBSiLU&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8ff82;" parent="AEcULFxjqD-0_eouRZMa-188" vertex="1">
-          <mxGeometry x="536" y="253" width="80" height="18" as="geometry" />
+          <mxGeometry x="536" y="253" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="AEcULFxjqD-0_eouRZMa-188" source="qm6q62LqsyIrhKxkbcd2-120" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1135,7 +1135,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-225" value="1×1 Conv" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00c4ff;" parent="AEcULFxjqD-0_eouRZMa-188" vertex="1">
-          <mxGeometry x="543" y="104" width="66" height="18" as="geometry" />
+          <mxGeometry x="543" y="103" width="66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-227" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;container=0;" parent="AEcULFxjqD-0_eouRZMa-188" vertex="1">
           <mxGeometry x="369" y="96.5" width="20" height="20" as="geometry" />
