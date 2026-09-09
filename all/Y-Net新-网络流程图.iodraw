@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ldZF-BC6GphwwstE1Bet-42" value="&lt;span style=&quot;background-color: initial;&quot;&gt;128×56&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;2&lt;/sup&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=26;container=0;fillColor=#92e57a;strokeColor=#999999;fontStyle=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2022" y="950" width="120" height="70" as="geometry" />
+          <mxGeometry x="2022" y="945" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;shadow=1;" parent="1" source="ldZF-BC6GphwwstE1Bet-43" target="ldZF-BC6GphwwstE1Bet-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry x="2048" y="1250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-66" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SARM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#E8A087;fontStyle=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="2059.5" y="1029" width="45" height="20" as="geometry" />
+          <mxGeometry x="2059.5" y="1027" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-67" value="DAD" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#9DC08B;fontStyle=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="2059.5" y="1053" width="45" height="20" as="geometry" />
