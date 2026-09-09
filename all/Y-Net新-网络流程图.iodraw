@@ -188,12 +188,6 @@
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-41" value="GHPD" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF99FF;" parent="1" vertex="1">
           <mxGeometry x="349.5" y="723" width="45" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="IIaQa5MqtIiBwuo9Krl2-43" value="GHPD" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF99FF;" parent="1" vertex="1">
-          <mxGeometry x="349" y="617" width="58" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="IIaQa5MqtIiBwuo9Krl2-44" value="GHPD" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF99FF;" parent="1" vertex="1">
-          <mxGeometry x="349" y="501" width="58" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-68" value="CLRF" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#CCCCFF;" parent="1" vertex="1">
           <mxGeometry x="163" y="393" width="72" height="23" as="geometry" />
         </mxCell>
@@ -1172,6 +1166,12 @@
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-163" value="3×3 Conv + Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
           <mxGeometry x="1281" y="1249" width="63" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-165" value="GHPD" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="355" y="624" width="45" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-166" value="GHPD" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="725" width="45" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
