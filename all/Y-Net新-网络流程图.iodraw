@@ -1067,13 +1067,16 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-93" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;1×1 Conv +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;softmax&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="1">
           <mxGeometry x="873" y="1184" width="111" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEcULFxjqD-0_eouRZMa-94" target="AEcULFxjqD-0_eouRZMa-97">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEcULFxjqD-0_eouRZMa-94" target="AEcULFxjqD-0_eouRZMa-97">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1139" y="1195" />
+              <mxPoint x="1139" y="1189" />
               <mxPoint x="1139" y="1176" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AEcULFxjqD-0_eouRZMa-94" target="AEcULFxjqD-0_eouRZMa-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-94" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;3×3 Fixed Box Smooth&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" vertex="1" parent="1">
           <mxGeometry x="1005" y="1184" width="125" height="21" as="geometry" />
