@@ -1106,16 +1106,13 @@
             <mxPoint x="605.5" y="179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-162" value="SE" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFE8B3;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-199">
+        <mxCell id="AEcULFxjqD-0_eouRZMa-162" value="SE" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFC0D3;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-199">
           <mxGeometry x="592.5" y="120" width="26" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AEcULFxjqD-0_eouRZMa-199" source="AEcULFxjqD-0_eouRZMa-163">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="601.5" y="274" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AEcULFxjqD-0_eouRZMa-199" source="AEcULFxjqD-0_eouRZMa-163" target="78YqLKwixUrg6ODOTMvR-18">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-163" value="3×3 Conv + Sigmoid" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#D0E1FD;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-199">
           <mxGeometry x="569.5" y="180" width="63" height="32" as="geometry" />
