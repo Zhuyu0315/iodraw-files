@@ -1290,14 +1290,11 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-421" value=":&amp;nbsp;Element-wise Difference" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-428">
           <mxGeometry x="28" width="226" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-429" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="91" y="1362" width="259" height="30" as="geometry" />
+        <mxCell id="AEcULFxjqD-0_eouRZMa-314" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Diff&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFD1B3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="97" y="1376" width="25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-314" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Diff&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFD1B3;fontStyle=1" vertex="1" parent="AEcULFxjqD-0_eouRZMa-429">
-          <mxGeometry width="25" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-422" value=":&amp;nbsp;Tensor Difference relative to&amp;nbsp;Average" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AEcULFxjqD-0_eouRZMa-429">
-          <mxGeometry x="33" y="5" width="226" height="20" as="geometry" />
+        <mxCell id="AEcULFxjqD-0_eouRZMa-422" value=":&amp;nbsp;Tensor Difference relative to&amp;nbsp;Average" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1376" width="226" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
