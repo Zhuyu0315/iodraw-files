@@ -212,10 +212,10 @@
             <Array as="points">
               <mxPoint x="500" y="384" />
               <mxPoint x="500" y="360" />
-              <mxPoint x="462" y="360" />
-              <mxPoint x="462" y="361" />
+              <mxPoint x="499" y="360" />
+              <mxPoint x="499" y="361" />
             </Array>
-            <mxPoint x="475" y="361" as="targetPoint" />
+            <mxPoint x="465" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IIaQa5MqtIiBwuo9Krl2-93" value="MLFFU" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#EBEB5E;" parent="1" vertex="1">
