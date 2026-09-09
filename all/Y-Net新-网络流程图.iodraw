@@ -1167,8 +1167,8 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-161" value="softmax weighted summation" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
           <mxGeometry x="1413" y="1177.75" width="107" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="AEcULFxjqD-0_eouRZMa-162" value="softmax weighted summation" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
-          <mxGeometry x="1541" y="1178.5" width="107" height="35.5" as="geometry" />
+        <mxCell id="AEcULFxjqD-0_eouRZMa-162" value="SE" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#00f8fd;" vertex="1" parent="1">
+          <mxGeometry x="1548" y="1185.5" width="26" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
