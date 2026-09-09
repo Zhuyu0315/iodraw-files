@@ -1146,6 +1146,12 @@
         <mxCell id="AEcULFxjqD-0_eouRZMa-119" value="&lt;span style=&quot;text-wrap: nowrap; font-size: 11px;&quot;&gt;1×1 Conv +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; font-size: 11px;&quot;&gt;Sigmoid&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="918" y="1309" width="112" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="AEcULFxjqD-0_eouRZMa-120" value="" style="endArrow=none;html=1;rounded=0;shape=link;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1098" y="1324" as="sourcePoint" />
+            <mxPoint x="1148" y="1274" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
