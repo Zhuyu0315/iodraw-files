@@ -1054,7 +1054,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-97" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;3×FC&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&amp;nbsp;+&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;1×1 Conv +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;softmax&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#A4A1FF;" parent="1" vertex="1">
-          <mxGeometry x="1091" y="738.5" width="150" height="21" as="geometry" />
+          <mxGeometry x="1091" y="738.5" width="150" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-98" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="1076" y="593.5" width="178.5" height="122" as="geometry" />
@@ -1071,7 +1071,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-119" value="3×3&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;CBSiLU&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8ff82;" parent="1" vertex="1">
-          <mxGeometry x="1314" y="686" width="80" height="25" as="geometry" />
+          <mxGeometry x="1314" y="686" width="80" height="18" as="geometry" />
         </mxCell>
         <mxCell id="qm6q62LqsyIrhKxkbcd2-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qm6q62LqsyIrhKxkbcd2-120" edge="1">
           <mxGeometry relative="1" as="geometry">
