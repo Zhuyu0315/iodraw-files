@@ -794,7 +794,7 @@
         <mxCell id="KAyxjXhMUVZj26TZpGdJ-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="AEcULFxjqD-0_eouRZMa-193" source="KAyxjXhMUVZj26TZpGdJ-216" target="KAyxjXhMUVZj26TZpGdJ-217" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAyxjXhMUVZj26TZpGdJ-216" value="upsample" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#F6CBB9;" parent="AEcULFxjqD-0_eouRZMa-193" vertex="1">
+        <mxCell id="KAyxjXhMUVZj26TZpGdJ-216" value="upsample" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#CFF5E7;" parent="AEcULFxjqD-0_eouRZMa-193" vertex="1">
           <mxGeometry x="30" y="330" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KAyxjXhMUVZj26TZpGdJ-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="AEcULFxjqD-0_eouRZMa-193" source="KAyxjXhMUVZj26TZpGdJ-231" target="KAyxjXhMUVZj26TZpGdJ-220" edge="1">
@@ -805,7 +805,7 @@
         <mxCell id="KAyxjXhMUVZj26TZpGdJ-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="AEcULFxjqD-0_eouRZMa-193" source="KAyxjXhMUVZj26TZpGdJ-220" target="KAyxjXhMUVZj26TZpGdJ-223" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAyxjXhMUVZj26TZpGdJ-220" value="1×1 CBSiLU" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#f8ff82;" parent="AEcULFxjqD-0_eouRZMa-193" vertex="1">
+        <mxCell id="KAyxjXhMUVZj26TZpGdJ-220" value="1×1 CBSiLU" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#E6D8FF;" parent="AEcULFxjqD-0_eouRZMa-193" vertex="1">
           <mxGeometry x="64.5" y="225" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KAyxjXhMUVZj26TZpGdJ-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="AEcULFxjqD-0_eouRZMa-193" source="KAyxjXhMUVZj26TZpGdJ-223" target="KAyxjXhMUVZj26TZpGdJ-225" edge="1">
