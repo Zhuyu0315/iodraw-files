@@ -649,7 +649,7 @@
           <mxGeometry x="745" y="820" width="635" height="217" as="geometry" />
         </mxCell>
         <mxCell id="78YqLKwixUrg6ODOTMvR-19" value="DTE" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#DAE8FC;" parent="1" vertex="1">
-          <mxGeometry x="533" y="54" width="42" height="20" as="geometry" />
+          <mxGeometry x="523" y="54" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="78YqLKwixUrg6ODOTMvR-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="745" y="634" width="635" height="167" as="geometry" />
