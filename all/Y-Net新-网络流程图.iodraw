@@ -1264,16 +1264,16 @@
           <mxGeometry x="-232" y="756" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-233" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;aspect=fixed;container=0;" vertex="1" parent="1">
-          <mxGeometry x="416.5" y="1227" width="20" height="20" as="geometry" />
+          <mxGeometry x="417" y="1227" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-234" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;container=0;" vertex="1" parent="1">
-          <mxGeometry x="417" y="1293" width="20" height="20" as="geometry" />
+          <mxGeometry x="417" y="1274" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-314" value="Diff" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFD1B3;" vertex="1" parent="1">
-          <mxGeometry x="411.5" y="1327" width="30" height="30" as="geometry" />
+          <mxGeometry x="412" y="1327" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AEcULFxjqD-0_eouRZMa-340" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="415" y="1260" width="20" height="20" as="geometry" />
+          <mxGeometry x="417" y="1243" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
